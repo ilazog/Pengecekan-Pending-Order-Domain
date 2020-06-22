@@ -35,7 +35,7 @@ Adapun dalam layanan ini kami akan membagikan langkah untuk pengecekan Pending O
 
 10. Jika layanan domain sudah Active dan hasil data whois sudah tersedia maka sesuaikan dulu expired date dan due date pada portal hero layanan domain tersebut.
 <img src="https://tes.s3-id-jkt-1.kilatstorage.id/pod8.png" width="500">
-<img src="https://tes.s3-id-jkt-1.kilatstorage.id/pod7.png" width="500">
+<img src="https://tes.s3-id-jkt-1.kilatstorage.id/pod71.png" width="500">
 
 11. Jika statusnya sudah Aktif dan sesuai dengan data whois domain tersebut bisa di Accept Order.
 <img src="https://tes.s3-id-jkt-1.kilatstorage.id/pod9.png" width="500">
